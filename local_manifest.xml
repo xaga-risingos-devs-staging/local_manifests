@@ -21,7 +21,7 @@
     <project path="kernel/xiaomi/mt6895" name="xaga-risingos-devs-staging/android_kernel_xiaomi_mt6895" remote="github" revision="lineage-23.0"/>
 
     <!-- Lindroid - Linux on Android -->
-    <project path="vendor/lindroid" name="shinichi-c/vendor_lindroid" remote="github" revision="lindroid-22.1"/>
+    <project path="vendor/lindroid" name="linux-on-droid/vendor_lindroid" remote="github" revision="lindroid-22.1"/>
     <project path="libhybris" name="Linux-on-droid/libhybris" remote="github" revision="lindroid-21"/>
     <project path="external/lxc" name="Linux-on-droid/external_lxc" remote="github" revision="lindroid-21"/>
     <project path="external/lindroid-drm-loopback" name="kde-yyds/lindroid-drm-loopback" remote="github" revision="work-c99" />
